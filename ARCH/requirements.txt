@@ -1,0 +1,10 @@
+pybind11
+cython
+scipy
+spacy
+scikit-learn # --no-use-pep517
+matplotlib==3.5.1
+pandas==1.4.2
+#smote-variants
+imbalanced-learn
+# python -m spacy download es_core_web_lg
